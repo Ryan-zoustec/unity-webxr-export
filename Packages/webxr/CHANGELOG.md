@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.21.0] - 2024-01-17
+### Added
+- An option to auto-load WebXRManager on start in WebXRSettings.
+- An option to auto-load WebXRInputSystem on start in WebXRSettings.
+- Error message when there's no Universal Render Pipeline package in project.
+- Error message when Player Settings Color Space not set to Gamma.
+
+### Changed
+- Updated WebGLTemplates assets based on newer Unity versions.
+
 ## [0.20.0] - 2023-12-18
 ### Added
 - Native XRSubsystem for WebXR Display rendering.
